@@ -1,2 +1,4 @@
 # sl
-Snakes &amp; Ladders Implementation for School
+Snakes &amp; Ladders Implementation
+
+Made by David Filiks & Afsar Ali
